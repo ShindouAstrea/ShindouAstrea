@@ -1,5 +1,5 @@
 ### Acerca de Mi
-
+/play secret
 - Desarrollador egresado de la PUCV
 - Me gustan las monitas chinas 
 - Soy un entusiasta de la ciberseguridad
