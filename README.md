@@ -1,5 +1,5 @@
 ### Acerca de Mi
-/play secret
+`#ffffff` for light mode and `#0d1117`
 - Desarrollador egresado de la PUCV
 - Me gustan las monitas chinas 
 - Soy un entusiasta de la ciberseguridad
