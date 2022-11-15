@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy José Silva A.</h1>
-<h3 align="center">Un Desarrollador en busca de como aportar al mundo con mis conocimientos.</h3>
+<h3 align="center">Un Desarrollador en busca de cómo aportar al mundo con sus conocimientos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shindouastrea&label=Visitas%20al%20perfil&color=34a4ea&style=plastic" alt="shindouastrea" /> </p>
 
