@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shindouastrea" alt="shindouastrea" /></a> </p>
 
-- 🌱Actualmente estoy aprendiendo sobre **React, Kotlin, Angular y desarrollo móvil.**
+- 🌱Actualmente estoy aprendiendo sobre **React, Kotlin, Angular ,React Native,  NodeJS y ExpressJS.**
 
 - 👨‍💻 Mis proyectos se irán publicando en [https://josesilva-web.netlify.app/](https://josesilva-web.netlify.app/)
 
