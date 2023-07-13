@@ -7,7 +7,7 @@
 
 - 🌱Actualmente estoy aprendiendo sobre **React, Kotlin, Angular y desarrollo móvil.**
 
-- 👨‍💻 Mis proyectos se irán publicando en [https://josesilva-web.netlify.app/](https://josesilva-web.netlify.app/)
+- 👨‍💻 Mis proyectos se irán publicando en [Mi portafolio personal](https://josesilva-portafolio.vercel.app/)
 
 - 📫 Contáctame a **jose.silva.a@mail.pucv.cl**
 
